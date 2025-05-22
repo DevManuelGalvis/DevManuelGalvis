@@ -22,9 +22,7 @@ I'm a professional **Software Developer** passionate about building robust and s
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevManuelGalvis&layout=compact&theme=default)
 
 ## 🌟 Featured Projects
-
-- *(Aquí puedes agregar tus proyectos destacados. Ejemplo:)*  
-  - [Project Name](https://github.com/DevManuelGalvis/project-name): Descripción breve del proyecto y tecnologías usadas.
+  - [Project Name](https://github.com/DevManuelGalvis/CitasPeluqueria-app): web application to schedule appointments for a hairdressing salon
 
 ## 🌐 Connect with Me
 
