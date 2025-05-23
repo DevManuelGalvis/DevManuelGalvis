@@ -21,6 +21,10 @@ I'm a professional **Software Developer** passionate about building robust and s
 ![DevManuelGalvis's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevManuelGalvis&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevManuelGalvis&layout=compact&theme=default)
 
+# 📊 Mis Hábitos de Codificación  
+
+[![Hábitos de Codificación](https://metrics.lecoq.io/DevManuelGalvis?template=classic&habits=1&habits.days=16&habits.facts=1&habits.charts=1&habits.charts.type=classic&languages=1&languages.ignored=html,css&config.timezone=America%2FMexico_City)](https://github.com/lowlighter/metrics)
+
 ## 🌟 Featured Projects
   - [CitasPeluqueria-app](https://github.com/DevManuelGalvis/CitasPeluqueria-app): web application to schedule appointments for a hairdressing salon
 
