@@ -23,7 +23,7 @@ I'm a professional **Software Developer** passionate about building robust and s
 
 # 📊 Mis Hábitos de Codificación  
 
-[![Hábitos de Codificación](https://metrics.lecoq.io/DevManuelGalvis?template=classic&habits=1&habits.days=16&habits.facts=1&habits.charts=1&habits.charts.type=classic&languages=1&languages.ignored=html,css&config.timezone=America%2FMexico_City)](https://github.com/lowlighter/metrics)
+![Metrics Habits Chart](https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.plugin.habits.charts.svg)
 
 ## 🌟 Featured Projects
   - [CitasPeluqueria-app](https://github.com/DevManuelGalvis/CitasPeluqueria-app): web application to schedule appointments for a hairdressing salon
