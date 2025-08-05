@@ -2,19 +2,10 @@
 
 I'm a professional **Software Developer** passionate about building robust and scalable solutions. I enjoy working across a diverse range of programming languages and tools, thriving on continuous learning and tackling new challenges.
 
-## 💡 Skills & Technologies
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+## 🚀 Technologies and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,fastapi,django,html,css,bootstrap,tailwind,php,mysql,git,github,linux,nextjs,vscode" />
 </p>
-
-- **Languages:** Python, JavaScript, PHP, SQL, Java
-- **Frameworks/Tools:** Django, MySQL, Git, and more
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -24,19 +15,17 @@ I'm a professional **Software Developer** passionate about building robust and s
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevManuelGalvis&layout=compact&theme=dark&langs_count=8"/>
 </p>
-# 📊 Mis Hábitos de Codificación  
 
-![Metrics](https://github.com/DevManuelGalvis/DevManuelGalvis/blob/main/metrics.svg)
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DevManuelGalvis&theme=gruvbox&no-frame=true&column=7&margin-w=10" />
+</p>
 
-## 🌟 Featured Projects
-  - [CitasPeluqueria-app](https://github.com/DevManuelGalvis/CitasPeluqueria-app): web application to schedule appointments for a hairdressing salon
+## 🌐 Connect with me
 
-## 🌐 Connect with Me
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuelgalvis/)
-- [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/)
-- 📧 [manuelgalvis.dev@gmail.com](mailto:manuelgalvis.dev@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuelgalvis/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuelgalvis.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://manuel-galvis-dev.vercel.app/)
 ---
 
 <!--
