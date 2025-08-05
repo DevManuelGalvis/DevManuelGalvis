@@ -17,10 +17,13 @@ I'm a professional **Software Developer** passionate about building robust and s
 - **Frameworks/Tools:** Django, MySQL, Git, and more
 
 ## 📊 GitHub Stats
-
-![DevManuelGalvis's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevManuelGalvis&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevManuelGalvis&layout=compact&theme=default)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevManuelGalvis&show_icons=true&theme=github_dark&count_private=true&hide=issues&custom_title=Estadísticas%20de%20GitHub"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevManuelGalvis&theme=dark"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevManuelGalvis&layout=compact&theme=dark&langs_count=8"/>
+</p>
 # 📊 Mis Hábitos de Codificación  
 
 ![Metrics](https://github.com/DevManuelGalvis/DevManuelGalvis/blob/main/metrics.svg)
