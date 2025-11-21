@@ -12,7 +12,7 @@ I enjoy working across a diverse range of programming languages and tools, thriv
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
   <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,fastapi,django,html,css,bootstrap" /><br>
-  <img src="https://skillicons.dev/icons?i=tailwind,php,mysql,git,github,linux,nextjs,vscode" />
+  <img src="https://skillicons.dev/icons?i=tailwind,php,mysql,git,github,linux,nextjs,vscode,java" />
 </p>
 
 </div>
@@ -28,10 +28,10 @@ I enjoy working across a diverse range of programming languages and tools, thriv
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevManuelGalvis&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=7FFF00" height="165"/>
 </p>
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DevManuelGalvis&theme=chartreuse-dark&no-frame=true&no-bg=true&row=1&margin-w=15" />
-</p>
+</p> -->
 
 ## 🌐 Connect with me
 
